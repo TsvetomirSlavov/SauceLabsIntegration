@@ -129,3 +129,12 @@
 2016-07-19 16:34:37,299 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
 2016-07-19 16:34:37,300 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-07-19 16:34:37,300 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-19 16:37:43,139 [Worker-245] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sauceLabs:automation:0.0.1-SNAPSHOT @ D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\pom.xml.
+2016-07-19 16:37:46,415 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:37:46,415 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-19 16:37:46,417 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:37:46,417 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-19 16:37:49,900 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:37:49,900 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-19 16:37:49,902 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:37:49,902 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
