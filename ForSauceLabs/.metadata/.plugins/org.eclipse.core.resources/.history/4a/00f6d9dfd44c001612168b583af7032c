@@ -1,0 +1,23 @@
+package com.sauceLabs.automation;
+
+import static com.codeborne.selenide.Selenide.*;
+
+import org.openqa.selenium.By;
+
+import static com.codeborne.selenide.Condition.*;
+
+public class Test_New {
+
+	public static void main(String[] args) {
+		open("https://app.inventorylab.com/login");
+		$(By.id("email")).setValue("bill10@websoftware.com");
+		$(By.id("password")).setValue("Hayley12%");
+		$("#btnLogin").click();
+		//$(".loading_progress").should(disappear); // Waits until element
+												 
+		//$("#username").shouldHave(text("Hello, Johny!")); // Waits until element
+															 
+
+	}
+
+}

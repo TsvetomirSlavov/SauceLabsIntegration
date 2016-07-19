@@ -1,0 +1,31 @@
+package com.sauceLabs.automation;
+
+import static com.codeborne.selenide.Selenide.*;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+
+import com.codeborne.selenide.ElementsCollection;
+import com.codeborne.selenide.SelenideElement;
+
+import static com.codeborne.selenide.Condition.*;
+
+public class Test_New {
+
+	public static void main(String[] args) {
+		open("https://app.inventorylab.com/login");
+		$("#email").setValue("bill10@websoftware.com");
+		$("#password").setValue("Hayley12%");
+		$("#btnLogin").click();
+		ElementsCollection trList = $$("#ShippingAddressList tr");
+		for(SelenideElementent ele : trList)
+		{}
+		//$(".loading_progress").should(disappear); // Waits until element
+												 
+		//$("#username").shouldHave(text("Hello, Johny!")); // Waits until element
+															 
+
+	}
+
+}

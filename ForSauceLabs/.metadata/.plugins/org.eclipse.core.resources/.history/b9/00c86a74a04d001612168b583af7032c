@@ -1,0 +1,42 @@
+package com.sauceLabs.automation;
+
+import static com.codeborne.selenide.Selenide.*;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+
+import com.codeborne.selenide.ElementsCollection;
+import com.codeborne.selenide.SelenideElement;
+
+import static com.codeborne.selenide.Condition.*;
+
+public class Test_New {
+
+	public static void main(String[] args) throws InterruptedException {
+		int count = 0;
+		open("https://app.inventorylab.com/login");
+		$("#email").setValue("bill10@websoftware.com");
+		$("#password").setValue("Hayley12%");
+		$("#btnLogin").click();
+		ElementsCollection trList = $$("#ShippingAddressList tr");
+
+		for (SelenideElement ele : trList) {
+			ele.$("td span[name='lblName']").text().contains("ABC Plumbing");
+			count++;
+		}
+		System.out.println("Total Records are " + count);
+		for (SelenideElement ele : trList) {
+			if (ele.$("td span[name='lblName']").text().contains("ABC Plumbing")) {
+				ele.$("a[name='lnkDelete']").click();
+				Thread.sleep(2000);
+				$("#btnDeleteYes").click();
+				break;
+			}
+		}
+		if (count <= 0) {
+			System.out.println("no records found");
+		}
+	}
+
+}

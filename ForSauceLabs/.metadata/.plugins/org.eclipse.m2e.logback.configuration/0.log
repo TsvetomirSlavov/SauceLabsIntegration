@@ -1,0 +1,131 @@
+2016-07-15 17:56:04,775 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\pom.xml
+2016-07-15 17:56:14,550 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sauceLabs:automation:0.0.1-SNAPSHOT @ D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\pom.xml.
+2016-07-15 17:56:17,115 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automation/src/main/java
+2016-07-15 17:56:17,124 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automation/src/test/java
+2016-07-15 17:56:25,234 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 20 sec
+2016-07-15 17:56:26,302 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:56:26,303 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 17:56:26,306 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:56:26,307 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 17:57:22,430 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:57:22,431 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 17:57:22,432 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:57:22,432 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 17:57:43,372 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:57:43,372 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 17:57:43,373 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:57:43,374 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 17:57:46,200 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:57:46,200 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 17:57:46,201 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:57:46,201 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 17:58:33,969 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:58:33,969 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 17:58:33,970 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:58:33,970 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 17:59:08,397 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sauceLabs:automation:0.0.1-SNAPSHOT @ D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\pom.xml.
+2016-07-15 17:59:11,900 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:59:11,900 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 17:59:11,902 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:59:11,903 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 17:59:14,556 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:59:14,556 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 17:59:14,558 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:59:14,558 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 17:59:24,917 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:59:24,917 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 17:59:24,919 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 17:59:24,919 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 18:06:26,200 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 18:06:26,200 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 18:06:26,202 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 18:06:26,202 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 18:15:39,311 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 18:15:39,312 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 18:15:39,313 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 18:15:39,313 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-15 18:23:01,982 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0-sources.jar
+2016-07-15 18:23:02,973 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0-sources.jar
+2016-07-15 18:23:03,197 [Worker-38] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-remote-driver:2.53.0
+2016-07-15 18:23:03,513 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 18:23:03,514 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-15 18:23:03,515 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 18:23:03,515 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-18 16:02:23,290 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sauceLabs:automation:0.0.1-SNAPSHOT @ D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\pom.xml.
+2016-07-18 16:02:25,845 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/codeborne/selenide/3.7/selenide-3.7.pom
+2016-07-18 16:02:26,112 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/codeborne/selenide/3.7/selenide-3.7.pom
+2016-07-18 16:02:26,354 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/2.53.1/selenium-java-2.53.1.pom
+2016-07-18 16:02:26,602 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/2.53.1/selenium-java-2.53.1.pom
+2016-07-18 16:02:26,862 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-parent/2.53.1/selenium-parent-2.53.1.pom
+2016-07-18 16:02:27,124 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-parent/2.53.1/selenium-parent-2.53.1.pom
+2016-07-18 16:02:27,370 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.53.1/selenium-chrome-driver-2.53.1.pom
+2016-07-18 16:02:27,630 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.53.1/selenium-chrome-driver-2.53.1.pom
+2016-07-18 16:02:27,870 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.53.1/selenium-remote-driver-2.53.1.pom
+2016-07-18 16:02:28,122 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.53.1/selenium-remote-driver-2.53.1.pom
+2016-07-18 16:02:28,357 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.pom
+2016-07-18 16:02:28,609 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.pom
+2016-07-18 16:02:28,846 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.53.1/selenium-edge-driver-2.53.1.pom
+2016-07-18 16:02:29,090 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.53.1/selenium-edge-driver-2.53.1.pom
+2016-07-18 16:02:29,338 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/htmlunit-driver/2.21/htmlunit-driver-2.21.pom
+2016-07-18 16:02:29,606 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/htmlunit-driver/2.21/htmlunit-driver-2.21.pom
+2016-07-18 16:02:29,874 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.21/htmlunit-2.21.pom
+2016-07-18 16:02:30,344 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.21/htmlunit-2.21.pom
+2016-07-18 16:02:30,979 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/neko-htmlunit/2.21/neko-htmlunit-2.21.pom
+2016-07-18 16:02:31,245 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/neko-htmlunit/2.21/neko-htmlunit-2.21.pom
+2016-07-18 16:02:32,179 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.pom
+2016-07-18 16:02:32,420 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.pom
+2016-07-18 16:02:32,672 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.53.1/selenium-ie-driver-2.53.1.pom
+2016-07-18 16:02:32,936 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.53.1/selenium-ie-driver-2.53.1.pom
+2016-07-18 16:02:33,172 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/2.53.1/selenium-support-2.53.1.pom
+2016-07-18 16:02:33,430 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/2.53.1/selenium-support-2.53.1.pom
+2016-07-18 16:02:33,670 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.53.1/selenium-leg-rc-2.53.1.pom
+2016-07-18 16:02:33,939 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.53.1/selenium-leg-rc-2.53.1.pom
+2016-07-18 16:02:34,175 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/codeborne/phantomjsdriver/1.3.0/phantomjsdriver-1.3.0.pom
+2016-07-18 16:02:34,433 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/codeborne/phantomjsdriver/1.3.0/phantomjsdriver-1.3.0.pom
+2016-07-18 16:02:34,780 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/codeborne/selenide/3.7/selenide-3.7.jar
+2016-07-18 16:02:35,738 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/codeborne/selenide/3.7/selenide-3.7.jar
+2016-07-18 16:02:35,967 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/codeborne/phantomjsdriver/1.3.0/phantomjsdriver-1.3.0.jar
+2016-07-18 16:02:36,212 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/codeborne/phantomjsdriver/1.3.0/phantomjsdriver-1.3.0.jar
+2016-07-18 16:02:38,016 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:02:38,017 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-18 16:02:38,019 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:02:38,020 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-18 16:02:42,086 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:02:42,087 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-18 16:02:42,089 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:02:42,089 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-18 16:03:58,904 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:03:58,905 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-18 16:03:58,907 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:03:58,907 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-18 16:10:10,659 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:10:10,659 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-18 16:10:10,660 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:10:10,660 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-18 16:16:25,574 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:16:25,574 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-18 16:16:25,575 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:16:25,576 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-18 16:34:09,264 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/codeborne/selenide/3.7/selenide-3.7-sources.jar
+2016-07-18 16:34:10,300 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/codeborne/selenide/3.7/selenide-3.7-sources.jar
+2016-07-18 16:34:10,428 [Worker-30] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.codeborne:selenide:3.7
+2016-07-18 16:34:10,731 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:34:10,731 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-18 16:34:10,732 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:34:10,733 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-18 16:36:02,417 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:36:02,417 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-18 16:36:02,420 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:36:02,420 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-18 16:39:15,941 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:39:15,941 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-18 16:39:15,943 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-18 16:39:15,944 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-19 16:33:44,555 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:33:44,614 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-19 16:33:44,620 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:33:44,621 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
+2016-07-19 16:34:37,299 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:34:37,299 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\main\resources
+2016-07-19 16:34:37,300 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:34:37,300 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Selenium-personnel\For Blogs\ForSauceLabs\automation\src\test\resources
